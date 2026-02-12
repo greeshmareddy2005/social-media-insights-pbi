@@ -1,0 +1,42 @@
+# Social Media Dashboard (Power BI)
+
+## Project Overview
+
+This project is a Power BI dashboard that analyzes social media data to provide insights into engagement, reach, and content performance.
+It helps users understand key trends and make data-driven decisions.
+
+## Key Features
+
+* Interactive dashboard
+* Engagement analysis (likes, comments, shares)
+* Reach and impressions tracking
+* Post performance comparison
+* Visual trends and insights
+
+## Tools Used
+
+* **Power BI** for data visualization
+* Data cleaning and transformation using Power Query
+
+## File Included
+
+* `social media project.pbix` – Main Power BI dashboard file
+
+## How to Use
+
+1. Download or clone this repository.
+2. Open the `.pbix` file using **Microsoft Power BI Desktop**.
+3. Refresh the data if required.
+4. Explore the interactive dashboard.
+
+## Purpose of the Project
+
+This project was created to:
+
+* Practice Power BI dashboard development
+* Analyze social media performance
+* Present insights in a visual and interactive format
+
+## Author
+
+**Greeshma ST**
